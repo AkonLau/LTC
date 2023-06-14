@@ -1,5 +1,5 @@
 # LTC: Improving Deep Representation Learning via Auxiliary Learnable Target Coding
-This is a Pytorch implementation of the paper [LTC](https://arxiv.org/abs/2208.01997).
+This is a Pytorch implementation of the paper [LTC](https://arxiv.org/abs/2305.18680).
 
 Deep representation learning is a subfield of machine learning that focuses on learning meaningful and useful representations of data through deep neural networks. 
 However, existing methods for semantic classification typically employ pre-defined target codes such as the one-hot and the Hadamard codes, 
@@ -9,7 +9,7 @@ which can not only incorporate latent dependency across classes but also impose 
 Specifically, a margin-based triplet loss and a correlation consistency loss on the proposed target codes are designed to encourage more discriminative representations 
 owing to enlarging between-class margins in representation space and favoring equal semantic correlation of learnable target codes respectively.
 
-For more details, please refer to our [paper](https://arxiv.org/abs/2208.01997).
+For more details, please refer to our [paper](https://arxiv.org/abs/2305.18680).
 
 ## Method Overview
 <img src="misc/figure1.png" style="width:18cm">
