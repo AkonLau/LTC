@@ -12,7 +12,7 @@ owing to enlarging between-class margins in representation space and favoring eq
 For more details, please refer to our [paper](https://arxiv.org/abs/2305.18680).
 
 ## Method Overview
-<img src="misc/figure1.png" style="width:18cm">
+<img src="misc/figure1.png" style="width:15cm">
 
 ## Setup
 ### Install Package Dependencies
